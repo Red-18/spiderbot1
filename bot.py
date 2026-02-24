@@ -1,6 +1,6 @@
 from pyrogram import Client
 
-TOKEN = "8242770626:AAGK8mjSM0cMTBPSAMUnnII6LfPkMMEuBb4"
+TOKEN = "8242770626:AAGz6O7Qf-R0dbgGo0TS2OihxLnwuhX5DKA"
 
 app = Client(
     "spiderbot",
